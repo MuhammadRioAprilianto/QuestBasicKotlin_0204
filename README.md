@@ -10,4 +10,5 @@ Laporan Praktikum Basic Kotlin
 <img width="960" height="540" alt="functions" src="https://github.com/user-attachments/assets/0d5b14b3-257a-484f-a6fd-a18216953b14" />
 <img width="960" height="540" alt="lambda" src="https://github.com/user-attachments/assets/c4d02f59-2d42-43c7-8325-6c06b262dab5" />
 <img width="960" height="540" alt="class" src="https://github.com/user-attachments/assets/b9b5bede-9fb3-4cbc-a3ae-4c78bbfd5fab" />
+<img width="960" height="540" alt="data class" src="https://github.com/user-attachments/assets/502392e1-8d92-412e-a6a1-2118d82e81fb" />
 
