@@ -6,4 +6,5 @@ Laporan Praktikum Basic Kotlin
 <img width="960" height="540" alt="tipe data dasar" src="https://github.com/user-attachments/assets/66094a24-f81a-4f01-8692-40778e084bb1" />
 <img width="960" height="540" alt="collection" src="https://github.com/user-attachments/assets/e04cef34-a110-42e7-9bbd-0cee62573113" />
 <img width="960" height="540" alt="conditional" src="https://github.com/user-attachments/assets/33e30491-6b6f-4db6-8006-283c3dc6b54a" />
+<img width="960" height="540" alt="loop dan ranges" src="https://github.com/user-attachments/assets/b255aa1e-c73b-4e07-8182-7e81ded08a8b" />
 
