@@ -8,4 +8,5 @@ Laporan Praktikum Basic Kotlin
 <img width="960" height="540" alt="conditional" src="https://github.com/user-attachments/assets/33e30491-6b6f-4db6-8006-283c3dc6b54a" />
 <img width="960" height="540" alt="loop dan ranges" src="https://github.com/user-attachments/assets/b255aa1e-c73b-4e07-8182-7e81ded08a8b" />
 <img width="960" height="540" alt="functions" src="https://github.com/user-attachments/assets/0d5b14b3-257a-484f-a6fd-a18216953b14" />
+<img width="960" height="540" alt="lambda" src="https://github.com/user-attachments/assets/c4d02f59-2d42-43c7-8325-6c06b262dab5" />
 
